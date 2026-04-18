@@ -1,0 +1,16 @@
+:root {
+  --font-family: "Inter", system-ui, -apple-system, sans-serif;
+  --color-text-main: #111827;
+  --color-text-muted: #6b7280;
+  --color-bg-main: #ffffff;
+  --color-bg-card: #f9fafb;
+  --color-grafterr-gray: #6b7280;
+
+  --gradient-text: linear-gradient(90deg, #60a5fa, #93c5fd);
+  --gradient-btn: linear-gradient(90deg, #3b82f6, #f59e0b);
+
+  --spacing-section: 80px 20px;
+  --container-max-width: 1200px;
+  --card-border-radius: 16px;
+  --transition-speed: 300ms;
+}
